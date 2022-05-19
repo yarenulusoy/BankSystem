@@ -21,7 +21,7 @@ anapara toplamı) bölünerek aylara borç olarak yansıtılır.
   src="/images/1.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto;  width: 300px"> 
+  style="display: inline-block; margin: 0 auto;  width: 500px"> 
 
 
 ### ● Yönetici
@@ -38,7 +38,7 @@ anapara toplamı) bölünerek aylara borç olarak yansıtılır.
   src="/images/4.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto;  width: 300px"> 
+  style="display: inline-block; margin: 0 auto;  width: 500px"> 
   
 ### ● Müşteri Temsilcisi
 - Her müşterinin bir temsilcisi vardır.
@@ -53,4 +53,4 @@ müşterileri için geçerlidir).
   src="/images/3.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto;  width: 300px"> 
+  style="display: inline-block; margin: 0 auto;  width: 500px"> 
