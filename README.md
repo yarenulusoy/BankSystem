@@ -16,6 +16,13 @@ anapara toplamı) bölünerek aylara borç olarak yansıtılır.
 - Faiz ve gecikme faiz oranı banka müdürü tarafından belirlenir.
 - Aylık özetlerini görüntüleyebilirler.
 
+  
+<img
+  src="/images/1.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto;  width: 300px"> 
+
 
 ### ● Yönetici
 - Bankanın genel durumunu (gelir, gider, kar ve toplam bakiye) görüntüleyebilmektedir.
@@ -26,7 +33,13 @@ anapara toplamı) bölünerek aylara borç olarak yansıtılır.
 - Sisteme yeni bir müşteri eklenmesi durumunda en az müşteriye sahip olan temsilciye atanır.
 - Bankada gerçekleşen tüm işlemleri (para çekme, yatırma ve transfer) görüntüler.
 
-
+  
+<img
+  src="/images/4.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto;  width: 300px"> 
+  
 ### ● Müşteri Temsilcisi
 - Her müşterinin bir temsilcisi vardır.
 - Müşteri ekleme, silme ve düzenleme yapabilir (silme ve düzenleme işlemleri sadece kendi
@@ -34,3 +47,10 @@ müşterileri için geçerlidir).
 - İlgilendikleri müşterilerin genel durumlarını görüntüler.
 - Müşterilerden gelen hesap açma, silme ve kredi taleplerini görüntüleme ve onaylama sorumluluğu temsilcilere aittir.
 - İlgilendikleri müşterilerin işlemlerini (para çekme, yatırma ve transfer) görüntüler.
+
+  
+<img
+  src="/images/3.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto;  width: 300px"> 
