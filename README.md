@@ -2,18 +2,18 @@
  Java Swing ile Banka Sistemi
 Sistemdeki Roller:
 ###● Müşteriler
-- Hesaplarından para çekebilirler ve yatırabilirler./
-- Yeni hesap açma ve var olan bir hesabı silme talebinde bulunabilirler./
-- Bakiyesi “0” olmayan bir hesap silinemez./
-- Birbirleri arasında para transferi yapabilirler./
+- Hesaplarından para çekebilirler ve yatırabilirler.
+- Yeni hesap açma ve var olan bir hesabı silme talebinde bulunabilirler.
+- Bakiyesi “0” olmayan bir hesap silinemez.
+- Birbirleri arasında para transferi yapabilirler.
 - Farklı para birimlerine sahip hesaplar arası transferler sırasında gönderilen miktar
-hedef para birimine otomatik olarak çevrilir./
-- Bilgilerini güncelleyebilirler./ 
-- Bankadan kredi talep edebilirler./
-- Bankaya para transferi yapabilirler. (Kredi borcu ödeme)/
+hedef para birimine otomatik olarak çevrilir.
+- Bilgilerini güncelleyebilirler.
+- Bankadan kredi talep edebilirler.
+- Bankaya para transferi yapabilirler. (Kredi borcu ödeme)
 - Bankanın kredi talebini onaylaması durumunda istenilen vade oranınca (faiz ve
-anapara toplamı) bölünerek aylara borç olarak yansıtılır./
-- Faiz ve gecikme faiz oranı banka müdürü tarafından belirlenir./
+anapara toplamı) bölünerek aylara borç olarak yansıtılır.
+- Faiz ve gecikme faiz oranı banka müdürü tarafından belirlenir.
 - Aylık özetlerini görüntüleyebilirler.
 
 
