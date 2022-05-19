@@ -1,7 +1,6 @@
 # BankSystem
- Java Swing ile Banka Sistemi 
+ Java Swing ve MySql ile Banka Sistemi 
  
-Sistemdeki Roller:
 ### ● Müşteriler
 - Hesaplarından para çekebilirler ve yatırabilirler.
 - Yeni hesap açma ve var olan bir hesabı silme talebinde bulunabilirler.
